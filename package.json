@@ -1,0 +1,15 @@
+{
+  "name": "gusfune-redirect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
